@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">E and M monogram favicon</title>
+  <desc id="desc">A serif monogram with the letters E and M plus an ampersand, styled for Eli and Michi.</desc>
+  <rect width="64" height="64" rx="18" fill="#fbf8ee" />
+  <rect x="2.5" y="2.5" width="59" height="59" rx="15.5" fill="none" stroke="#78936f" stroke-opacity="0.45" />
+  <text
+    x="16.5"
+    y="41"
+    fill="#263126"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="26"
+    font-weight="700"
+    text-anchor="middle"
+  >
+    E
+  </text>
+  <text
+    x="47.5"
+    y="41"
+    fill="#263126"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="26"
+    font-weight="700"
+    text-anchor="middle"
+  >
+    M
+  </text>
+  <text
+    x="32"
+    y="38.5"
+    fill="#df9694"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="16"
+    font-style="italic"
+    font-weight="700"
+    text-anchor="middle"
+  >
+    &amp;
+  </text>
+</svg>
